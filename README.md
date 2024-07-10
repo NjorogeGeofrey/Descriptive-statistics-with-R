@@ -1,5 +1,4 @@
 # Descriptive-statistics-with-R
-README for Descriptive Statistics and Data Exploration (R Code)
 Overview:
 This set of R code snippets focuses on exploring and analyzing the mtcars dataset, covering descriptive statistics, measures of central tendency, measures of dispersion, and data visualization.
 
